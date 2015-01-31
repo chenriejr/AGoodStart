@@ -1,6 +1,6 @@
 //
 //  AppDelegate.m
-//  first project
+//  bmi calc
 //
 //  Created by Guest User on 1/30/15.
 //  Copyright (c) 2015 calhenrie. All rights reserved.
@@ -15,7 +15,7 @@
 @implementation AppDelegate
 
 
-- (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions 
+- (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
     return YES;
 }
